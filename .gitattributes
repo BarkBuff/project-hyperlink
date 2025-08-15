@@ -1,0 +1,4 @@
+*.sh linguist-language=Shell
+*.yml linguist-language=YAML
+*.conf linguist-language=INI
+*.md linguist-language=Markdown

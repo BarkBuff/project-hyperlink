@@ -1,0 +1,15 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor swap files
+*~
+*.swp
+
+# OS-specific
+ehthumbs.db
+Icon?
