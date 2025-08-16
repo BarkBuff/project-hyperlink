@@ -1,6 +1,5 @@
-# LibreBox-Foundation
-A Raspberry Pi + a router = your own private internet.  
-Runs entirely offline, preloaded with the good parts of the web — Wikipedia, Khan Academy, books, and more.  
+# Project Hyperlink
+Your own private internet. Runs entirely offline, preloaded with the good parts of the web — Wikipedia, Khan Academy, books, and more.  
 
 No SIM. No ISP. No surveillance.  
 
